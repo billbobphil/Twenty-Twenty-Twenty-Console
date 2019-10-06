@@ -1,0 +1,5 @@
+D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.exe.config
+D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.exe
+D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.pdb
+D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.exe
+D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.pdb
