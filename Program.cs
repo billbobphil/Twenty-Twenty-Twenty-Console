@@ -96,12 +96,19 @@ ______________________________
 
         public static void RunReminders()
         {
-            Minimize();
-
             for(; ;  )
             {
+                Minimize();
                 Thread.Sleep(MinutesBetweenReminders * 60000);
+                //Thread.Sleep(5000); Debug only timer(5 seconds)
                 Console.Clear();
+
+                //Read all remaining keys in the buffer before receiving new input
+                while (Console.KeyAvailable)
+                {
+                    Console.ReadKey(true);
+                }
+
                 GetHeader();
                 Console.WriteLine($"It's been {MinutesBetweenReminders} minutes! Time to look away.");
                 Console.WriteLine("Press any key to get back to work. Or Press Escape to exit.");

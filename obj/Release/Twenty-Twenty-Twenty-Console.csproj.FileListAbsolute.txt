@@ -1,6 +1,5 @@
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Release\Twenty-Twenty-Twenty-Console.exe.config
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Release\Twenty-Twenty-Twenty-Console.exe
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Release\Twenty-Twenty-Twenty-Console.pdb
-D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Release\Twenty-Twenty-Twenty-Console.csprojAssemblyReference.cache
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Release\Twenty-Twenty-Twenty-Console.exe
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Release\Twenty-Twenty-Twenty-Console.pdb
