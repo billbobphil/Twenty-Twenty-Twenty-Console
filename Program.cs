@@ -114,10 +114,12 @@ ______________________________
             {
                 if (keyPressed == ConsoleKey.Escape)
                 {
+                    validKey = true;
                     Environment.Exit(0);
                 }
                 else if (keyPressed == ConsoleKey.Enter || keyPressed == ConsoleKey.Spacebar)
                 {
+                    validKey = true;
                     Console.Clear();
                     GetHeader();
                     Console.WriteLine("Got it (We're counting again). Happy Computing.");
