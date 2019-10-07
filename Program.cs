@@ -98,37 +98,26 @@ ______________________________
         {
             Minimize();
 
-
-            Thread.Sleep(MinutesBetweenReminders * 60000);
-            Console.Clear();
-            GetHeader();
-            Console.WriteLine($"It's been {MinutesBetweenReminders} minutes! Time to look away.");
-            Console.WriteLine("Press Enter or the Spacebar to get back to work! Or Press Escape to exit.");
-
-            Maximize();
-
-            Boolean validKey = false;
-            ConsoleKey keyPressed = Console.ReadKey().Key;
-            
-            while(!validKey)
+            for(; ;  )
             {
+                Thread.Sleep(MinutesBetweenReminders * 60000);
+                Console.Clear();
+                GetHeader();
+                Console.WriteLine($"It's been {MinutesBetweenReminders} minutes! Time to look away.");
+                Console.WriteLine("Press any key to get back to work. Or Press Escape to exit.");
+
+                Maximize();
+
+                ConsoleKey keyPressed = Console.ReadKey().Key;
+
                 if (keyPressed == ConsoleKey.Escape)
                 {
-                    validKey = true;
                     Environment.Exit(0);
                 }
-                else if (keyPressed == ConsoleKey.Enter || keyPressed == ConsoleKey.Spacebar)
-                {
-                    validKey = true;
-                    Console.Clear();
-                    GetHeader();
-                    Console.WriteLine("Got it (We're counting again). Happy Computing.");
-                    RunReminders();
-                }
-                else
-                {
-                    Console.WriteLine("\nSorry, that key was invalid, try again.");
-                }
+
+                Console.Clear();
+                GetHeader();
+                Console.WriteLine("Got it (We're counting again). Happy Computing.");
             }
         }
 
