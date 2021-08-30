@@ -4,3 +4,17 @@ D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.exe
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.pdb
 D:\Code\c#_workspace\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.csprojAssemblyReference.cache
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.exe.config
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.exe.manifest
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.application
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.exe
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Twenty-Twenty-Twenty-Console.pdb
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.csprojAssemblyReference.cache
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.csproj.CoreCompileInputs.cache
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.exe.manifest
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.application
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.csproj.CopyComplete
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.exe
+D:\Coding\Repos\Twenty-Twenty-Twenty-Console\obj\Debug\Twenty-Twenty-Twenty-Console.pdb
